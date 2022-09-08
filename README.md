@@ -1,2 +1,8 @@
-# Power-Bi-Estudo-de-caso-01
-Vendas de veiculos - 2016-2019
+# 🟡 Microsoft Power Bi - Estudo de caso 01
+A partir de uma base de dados onde temos registros sobre vendas de veículos entre os anos de 2016 e 2019, apresentaremos as seguintes informações:
++ Total de vendas por ano;
++ Custo de entrega do veículo por fabricante;
++ Custo de mão de obra por estado;
++ Total de vendas geral e matriz de vendas;
++ Total de vendas por estado;
+
