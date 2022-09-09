@@ -1,4 +1,4 @@
-# 🟡 Microsoft Power Bi - Estudo de caso 01
+# 📒 Microsoft Power Bi | Estudo de caso 02
 A partir de uma base de dados onde temos registros sobre vendas de veículos entre os anos de 2016 e 2019, apresentaremos as seguintes informações:
 + Total de vendas por ano;
 + Custo de entrega do veículo por fabricante;
